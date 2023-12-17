@@ -38,8 +38,7 @@ Workflow:
 
 **Outcome:**
 
-**The project aims to showcase proficiency in:**
-
+The project aims to showcase proficiency in:
 Understanding and implementing the Naive Bayes algorithm for text classification.
 Utilizing sklearn for standard algorithm implementation.
 Customizing and developing an algorithm from scratch tailored to specific requirements.
