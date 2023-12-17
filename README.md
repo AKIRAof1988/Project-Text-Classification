@@ -1,12 +1,12 @@
 # Project-Text-Classification
 The project focuses on Text Classification using Naive Bayes, where the goal is to categorize text documents into predefined classes or categories.
 
-#Project Overview:
+# Project Overview:
 Objective: To develop and compare the performance of Multinomial Naive Bayes implemented using sklearn with a custom implementation of Naive Bayes for text classification.
 
 **Key Components:**
 
-Text Data: The dataset comprises textual documents that are labeled into distinct categories.
+# Text Data:# The dataset comprises textual documents that are labeled into distinct categories.
 
 Multinomial Naive Bayes (Sklearn Implementation):
 
