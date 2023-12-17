@@ -14,13 +14,16 @@ Objective: To develop and compare the performance of Multinomial Naive Bayes imp
 Testing Phase: Evaluate the model's performance on a separate test set using metrics like accuracy, precision, recall, and F1-score.
 Custom Naive Bayes Implementation:
 
+
 **Design:** Develop a Naive Bayes algorithm specifically tailored for text classification.
 Implementation: Create necessary functions to calculate probabilities, handle text data, build vocabulary, compute likelihoods, and determine class priors.
 Comparison of Results:
 
+
 **Performance Metrics:** Evaluate the self-implemented Naive Bayes model's performance against the sklearn implementation.
 Metrics Comparison: Analyze and compare metrics like accuracy, precision, recall, and F1-score to understand the strengths and weaknesses of each implementation.
 Workflow:
+
 
 **Data Preparation:** Preprocess the dataset, including text tokenization, cleaning, and organizing into a suitable format for classification.
 
