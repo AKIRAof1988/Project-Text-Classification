@@ -6,7 +6,7 @@ Objective: To develop and compare the performance of Multinomial Naive Bayes imp
 
 **Key Components:**
 
-# Text Data:# The dataset comprises textual documents that are labeled into distinct categories.
+Text Data: The dataset comprises textual documents that are labeled into distinct categories.
 
 Multinomial Naive Bayes (Sklearn Implementation):
 
